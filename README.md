@@ -1,4 +1,4 @@
-# 📊 Executive Business Performance Dashboard (Excel & BI)
+# 📊 Executive Business Performance Dashboard 
 
 An end-to-end Microsoft Excel Business Intelligence project designed to transform raw transaction data into actionable business insights. This project demonstrates data cleaning via **Power Query**, structured **Data Modeling**, custom **DAX Measures**, and an interactive executive **Dashboard** with dynamic slicers.
 
