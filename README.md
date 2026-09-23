@@ -25,6 +25,14 @@ This assignment project focuses on building a dynamic business dashboard to anal
 - **PivotTables & PivotCharts** (Visual Analytics)
 
 ---
+## 👨‍💻 Author
+
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
+*   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
 
 ## 📁 Repository Structure
 
